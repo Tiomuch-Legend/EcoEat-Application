@@ -19,25 +19,21 @@ User-Friendly Interface – Built for both iOS and Android using React Native.
 
 🛠️ Technologies Used
 
-Backend: Python with AI-based image recognition.
+Backend: Python .
 
 Frontend: React Native (Expo) for cross-platform compatibility.
 
-AI Model: GPT-4o for food recognition and recipe generation.
-
+AI Model: LLAMA 3 for products recognising and DeepSeek for recipe generation
 Validation: Pydantic for structured AI responses.
 
-Database: Firebase for real-time storage and authentication.
-
+Server creation: FastAPI
 📖 How It Works
 
 Upload or scan an image of available ingredients.
 
-AI detects the items and generates a list.
+AI detects the items and generates a list based on products from photo and user entered restrictions.
 
 Recipe suggestions are created based on those ingredients.
-
-Users can modify recipes according to dietary needs.
 
 Enjoy cooking with less food waste!
 
